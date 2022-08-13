@@ -2,6 +2,7 @@
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
+  padding-top: 4rem;
 }
 
 .mainHeader {
@@ -61,5 +62,9 @@
 }
 
 .quantity {
+  color: #dd6000;
+}
+
+.regresar {
   color: #dd6000;
 }
